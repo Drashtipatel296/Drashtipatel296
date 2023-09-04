@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Drashti Patel</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drashtipatel296&label=Profile%20views&color=0e75b6&style=flat" alt="drashtipatel296" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drashtipatel296" alt="drashtipatel296" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on **Flutter Development**
 
@@ -16,6 +15,18 @@
 - 📫 How to reach me **drashtipatel7080@gmail.com**
 
 - ⚡ Fun fact **I am Passionate and Funny**
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drashtipatel296&label=Profile%20views&color=0e75b6&style=flat" alt="drashtipatel296" /> </p>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drashtipatel296" alt="drashtipatel296" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,21 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drashtipatel296&" alt="drashtipatel296" /></p>
 
-<h1 align="center">Hi 👋, I'm Drashti Patel</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **Flutter Development**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Core Flutter**
-
-- 💬 Ask me about **C,C++,Dart**
-
-- 📫 How to reach me **drashtipatel7080@gmail.com**
-
-- ⚡ Fun fact **I am Passionate and Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
