@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Drashti Patel</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
